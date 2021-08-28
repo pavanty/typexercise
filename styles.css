@@ -1,0 +1,55 @@
+tr {
+  border: 1px solid;
+  border-style: none;
+}
+
+body {
+  text-align: center;
+}
+
+tr td {
+  padding: 1px 30px 10px 30px;
+}
+
+.timetable {
+  color: blue;
+  height: 70px;
+  font-size: 50px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.blue {
+  background-color: #add8e6;
+}
+
+.montue {
+  background-color: #c5b2a8;
+}
+
+.break {
+  background-color: #a8acb2;
+}
+
+.lightgreen {
+  background-color: #9caf8e;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: #058bbc;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+#white {
+  color: white;
+}
